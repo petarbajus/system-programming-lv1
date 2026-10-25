@@ -1,0 +1,8 @@
+# Compiled binaries and files created while measuring
+build/
+data/
+
+# Text pulled out of the handout while reading it
+doc_dump.txt
+extracted_ascii.txt
+extracted_utf16.txt
